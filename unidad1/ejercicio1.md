@@ -1,6 +1,6 @@
  ## Ten en cuenta lo siguiente: En esta ocasión, crea primero el repositorio local en Windows (usando git init). El repositorio debe contener, al menos, dos archivos de texto: archivo1.txt y archivo2.txt. El contenido de ambos archivos es libre.
 
-![1](/Ejercicio%201/Creacion%20de%20textos.PNG)
+![1](/iaw/unidad1/img/Imagenes%201/Creacion%20de%20textos.PNG)
 
 ## Agrega (conecta) el repositorio local con un repositorio remoto en GitHub (usando git remote add).
 
