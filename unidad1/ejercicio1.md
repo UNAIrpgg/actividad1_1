@@ -4,24 +4,24 @@
 
 ## Agrega (conecta) el repositorio local con un repositorio remoto en GitHub (usando git remote add).
 
-![2](/Ejercicio%201/Conecta%20repositorio%20(gráfico).PNG)
-![3](/Ejercicio%201/Conectar%20repositorio%20terminal.PNG)
+![2](/iaw/unidad1/img/Imagenes%201/Conecta%20repositorio%20(gráfico).PNG)
+![3](/iaw/unidad1/img/Imagenes%201/Conectar%20repositorio%20terminal.PNG)
 
 ## Sube el repositorio local a GitHub (usando git push).
 
-![4](/Ejercicio%201/Subir%20repositorio.PNG)
+![4](/iaw/unidad1/img/Imagenes%201/Subir%20repositorio.PNG)
 
 ## Clona el repositorio remoto en tu máquina virtual Linux Debian (usando git clone).
 
-![5](/Ejercicio%201/Clonar%20repositorio.PNG)
+![5](/iaw/unidad1/img/Imagenes%201/Clonar%20repositorio.PNG)
 
 ## Modifica, en Windows, uno de los archivos y añade un 3º archivo de texto llamado archivo3.txt. Confirma los cambios(usando git add, git commit) y súbelos al repositorio (usando git push).
 
-![6](/Ejercicio%201/Archivo3.PNG)
-![7](/Ejercicio%201/Git%20add%20archivo%203.PNG)
-![8](/Ejercicio%201/Git%20commit%20archivo3.PNG)
-![9](/Ejercicio%201/Git%20push%20archivo3.PNG)
+![6](/iaw/unidad1/img/Imagenes%201/Archivo3.PNG)
+![7](/iaw/unidad1/img/Imagenes%201/Git%20add%20archivo%203.PNG)
+![8](/iaw/unidad1/img/Imagenes%201/Git%20commit%20archivo3.PNG)
+![9](/iaw/unidad1/img/Imagenes%201/Git%20push%20archivo3.PNG)
 
 ## Actualiza la versión local del repositorio en Linux Debian (usando git pull).
 
-![10](/Ejercicio%201/Actualizar%20con%20git%20pull.PNG)
+![10](/iaw/unidad1/img/Imagenes%201/Actualizar%20con%20git%20pull.PNG)
